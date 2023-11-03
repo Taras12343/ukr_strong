@@ -1,0 +1,7 @@
+a[href^="https"] {
+    background-color: red
+}
+
+#id+p {
+    color: beige
+}
