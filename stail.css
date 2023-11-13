@@ -1,0 +1,21 @@
+* {
+    background-color: beige
+}
+
+
+.class {
+    color: red;
+    background-color: yellowgreen
+}
+
+#id+p {
+    color: beige
+}
+
+a[href^="http"] {
+    background-color: red
+}
+
+a[href^="https"] {
+    background-color: green
+}
