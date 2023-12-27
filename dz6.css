@@ -1,0 +1,38 @@
+:root {
+    --accent:
+        #2196F3;
+    --accent: #000000;
+    --main-text: #757575;
+    --headings: #212121;
+    --paragraph: #757575;
+
+}
+
+.text {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: #2196F3;
+    font-size: 26px;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: 0.78px;
+}
+
+.te {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+.t {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+.tex {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+.ne {
+    color: black;
+}
