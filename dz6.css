@@ -8,7 +8,7 @@
 
 }
 
-.text {
+.a-p {
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     color: #2196F3;
@@ -18,21 +18,120 @@
     letter-spacing: 0.78px;
 }
 
-.te {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 500;
-}
-
-.t {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 400;
-}
-
-.tex {
-    font-family: 'Roboto', sans-serif;
+.p-span {
+    color: #000;
+    font-family: 'Raleway', sans-serif;
+    font-size: 26px;
+    font-style: normal;
     font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.78px;
 }
 
-.ne {
-    color: black;
+.li-a {
+    color: #212121;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.li-t {
+    color: #2196F3;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.li-b {
+    color: #757575;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.li-butto {
+    color: #FFF;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    /* 162.5% */
+    letter-spacing: 0.48px;
+}
+
+.li-button {
+    color: #212121;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 26px;
+    /* 162.5% */
+    letter-spacing: 0.48px;
+}
+
+.li-p {
+    color: #757575;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    /* 187.5% */
+    letter-spacing: 0.48px;
+}
+
+.li-h2 {
+    color: #212121;
+
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px;
+    /* 200% */
+    letter-spacing: 1.08px;
+}
+
+.address {
+    color: #FFF;
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+    letter-spacing: 0.42px;
+}
+
+.li-h {
+    color: rgba(36, 190, 167, 0.6);
+
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    /* 171.429% */
+    letter-spacing: 0.42px;
+
 }
