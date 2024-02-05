@@ -1,10 +1,112 @@
+:root {
+    --font-family: "Montserrat", sans-serif;
+    --second-family: "Poppins", sans-serif;
+    --third-family: "Roboto", sans-serif;
+}
+
+
+
+
+
 .a {
     padding: 15px 10px 20px 10px;
-    /* width: 350px;
-    height: 220px; */
+    width: 350px;
+    height: 220px;
     margin-bottom: 30px;
     border-width: 2px;
     border-color: red;
     border-style: dashed;
     background-color: green;
+}
+
+.section {
+    background-image: url(./_103808045_flexitarian_diet_getty\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 80px;
+    padding-bottom: 178px;
+
+}
+
+.h2 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 24px;
+
+    line-height: 36px;
+
+    letter-spacing: 0em;
+    text-align: center;
+    color: #f6f6f6;
+}
+
+.h1 {
+    font-family: var(--second-family);
+    font-weight: 700;
+    font-size: 58px;
+
+    line-height: 80px;
+
+    letter-spacing: 0em;
+    text-align: center;
+    color: #fff;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.p {
+    font-family: var(--font-family);
+    font-weight: 500;
+    font-size: 24px;
+
+    line-height: 38px;
+
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #f6f6f6;
+}
+
+.button-one {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 24px;
+
+    line-height: 36px;
+
+    letter-spacing: 0em;
+    color: #fff;
+    margin-right: 70px;
+    background-color: orange;
+    border-radius: 30px;
+    padding: 16px 0px;
+    width: 236px;
+    height: 68px;
+    box-shadow: 0 10px 30px 0 rgba(183, 50, 39, 0.2);
+
+}
+
+.button-two {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 24px;
+
+    line-height: 36px;
+
+    letter-spacing: 0em;
+    color: #fff;
+    background-color: transparent;
+    border-radius: 30px;
+    padding: 16px 0px;
+    width: 236px;
+    height: 68px;
+    box-shadow: 0 10px 30px 0 rgba(183, 50, 39, 0.2);
+
+}
+
+.div {
+
+
+    display: flex;
+    justify-content: center;
 }
